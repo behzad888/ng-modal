@@ -1,6 +1,6 @@
 {
   "name": "ax-modal",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
@@ -46,7 +46,7 @@
     "typescript": "~2.7.2"
   },
   "description": "Simple Resizable and draggable modal component.",
-  "main": "index.js",
+  "main": "dist/main.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/behzad888/ng-modal.git"
